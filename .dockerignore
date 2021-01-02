@@ -1,0 +1,8 @@
+README.md
+LICENSE
+.gitignore
+node_modules
+build
+.dockerignore
+Dockerfile
+Dockerfile.prod
